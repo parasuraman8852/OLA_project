@@ -172,10 +172,10 @@ if select == "📊 Power BI Dashboards":
 
     dashboards = {
     "Dashboard 1 - Ride Overview": "OLA_project_1.png",
-    "Dashboard 2 - Vehicle Performance": r"C:\Users\Parasu Ra\Downloads\OLA_project_2.png",
-    "Dashboard 3 - Customer Insights": r"C:\Users\Parasu Ra\Downloads\OLA_project_3.png",
-    "Dashboard 4 - Cancellation Trends": r"C:\Users\Parasu Ra\Downloads\OLA_project_4.png",
-    "Dashboard 5 - Revenue Analysis": r"C:\Users\Parasu Ra\Downloads\OLA_project_5.png"
+    "Dashboard 2 - Vehicle Performance": "OLA_project_2.png",
+    "Dashboard 3 - Customer Insights": "OLA_project_3.png",
+    "Dashboard 4 - Cancellation Trends": "OLA_project_4.png",
+    "Dashboard 5 - Revenue Analysis": "OLA_project_5.png"
 }
 
     # Select dashboard
