@@ -6,6 +6,7 @@ import pandas as pd
 def create_connection():
     conn = mysql.connector.connect(
         host=st.secrets["mysql"]["localhost"],
+        port=st.secrets["mysql"]["3306"]
         user=st.secrets["mysql"]["root"],
         password=st.secrets["mysql"]["PAra!1001"],
         database=st.secrets["mysql"]["ola_project"]
