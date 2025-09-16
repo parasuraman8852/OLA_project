@@ -171,7 +171,7 @@ if select == "📊 Power BI Dashboards":
     st.subheader("📌 OLA riding insights")
 
     dashboards = {
-    "Dashboard 1 - Ride Overview": r"C:\Users\Parasu Ra\Downloads\OLA_project_1.png",
+    "Dashboard 1 - Ride Overview": "OLA_project_1.png",
     "Dashboard 2 - Vehicle Performance": r"C:\Users\Parasu Ra\Downloads\OLA_project_2.png",
     "Dashboard 3 - Customer Insights": r"C:\Users\Parasu Ra\Downloads\OLA_project_3.png",
     "Dashboard 4 - Cancellation Trends": r"C:\Users\Parasu Ra\Downloads\OLA_project_4.png",
